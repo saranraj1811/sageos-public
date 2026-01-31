@@ -173,3 +173,7 @@ least-privilege execution
 Contact / Investor Demo
 
 📩 Email: contact@sageos.ai 🌐 Website: https://sageos.ai
+
+Disclaimer
+
+SAGE OS is compliance-ready design (not certified). Built for strict governance foundations first.
